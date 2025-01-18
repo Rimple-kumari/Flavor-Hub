@@ -8,11 +8,7 @@ This project is a dynamic and user-friendly food delivery website developed usin
 
 ## Screenshots
  
-![image](https://github.com/Sweety-Vigneshg/Food-Delivery-Website/blob/f3471fcfa680d8dbebc8ccb3ab69bda7588d9413/Sample/food%20delivery%20website%20special.png)
-![image](https://github.com/Sweety-Vigneshg/Food-Delivery-Website/blob/f3471fcfa680d8dbebc8ccb3ab69bda7588d9413/Sample/food%20delivery%20website%20gallery.png)
-![image](https://github.com/Sweety-Vigneshg/Food-Delivery-Website/blob/f3471fcfa680d8dbebc8ccb3ab69bda7588d9413/Sample/food%20delivery%20website%20review.png)
-![image](https://github.com/Sweety-Vigneshg/Food-Delivery-Website/blob/f3471fcfa680d8dbebc8ccb3ab69bda7588d9413/Sample/food%20delivery%20website%20footerorders.png)
-![image](https://github.com/Sweety-Vigneshg/Food-Delivery-Website/blob/f3471fcfa680d8dbebc8ccb3ab69bda7588d9413/Sample/food%20delivery%20website%20footer.png)
+ 
 
 ## Features
 

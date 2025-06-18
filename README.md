@@ -6,8 +6,7 @@ Welcome to the Food Delivery Website repository created by Rimple kumari
 
 This project is a dynamic and user-friendly food delivery website developed using HTML, CSS, and JavaScript. It offers an immersive experience for users to browse, select, and order from a wide range of culinary options.
 
-## Screenshots
- 
+
  
 
 ## Features
@@ -26,8 +25,6 @@ This project is a dynamic and user-friendly food delivery website developed usin
 - CSS
 - JavaScript
 
-## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sweety-Vigneshg/food-delivery-website.git
+
+
